@@ -161,7 +161,7 @@ function add(a, b) {
  * @param {number} b - The second number (subtrahend).
  * @return {number}  - The difference between the two numbers.
  */
-function substract(a, b) {
+function subtract(a, b) {
   return a - b;
 }
 /**
